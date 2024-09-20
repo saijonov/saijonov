@@ -37,9 +37,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Python,Django,C,Postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,c,postgresql" />
 <br>
 </div>
 
 <br/>
 <hr/>
+
