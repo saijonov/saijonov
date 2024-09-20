@@ -8,7 +8,7 @@
 
 <p align="center">
     I specialize in creating scalable web applications, developing innovative solutions, and working with cutting-edge technologies. 
-    With experience in <strong>Python, Django, C, and SQL</strong>, I strive to build projects that are efficient, maintainable, and enjoyable to use.
+    With experience in <strong>Python, Django, C, and SQL</strong>, I try to build projects that are efficient, maintainable, and <strong>easy to use</strong>.
 </p>
 
 
@@ -17,9 +17,9 @@
 <h2 align="center">🚀 Current Focus 🚀</h2>
 
 <div align="center">
-    🔭 I’m currently working on developing a **CRM** system that integrates lead generation and management features using Python, Django, and PostgreSQL.
+    🔭 I’m currently working on developing a <strong>CRM</strong> system that integrates lead generation and management features using Python, Django, and PostgreSQL.
     <br/><br/>
-    🌱 I’m exploring advanced **Pentesting** techniques, network security, and real-world vulnerability assessments.
+    🌱 I’m exploring advanced <strong>Pentesting</strong> techniques, network security, and real-world vulnerability assessments.
 </div>
 
 <hr/>
@@ -60,7 +60,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saijonov/saijonov/output/github-contribution-grid-snake.svg" />
   <br/><br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=saijonov&theme=github" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=saijonov&theme=github" />
   <br/><br/><br/>
 </div>
 <hr/>
