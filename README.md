@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+start+our+journey!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">Full Stack Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
     I specialize in creating scalable web applications, developing innovative solutions, and working with cutting-edge technologies. 
