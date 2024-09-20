@@ -5,3 +5,12 @@
 </h1>
 
 <h3 align="center">A passionate full stack developer from Uzbekistan🇺🇿 </h3>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on a **CRM**
+
+💬 Ask me about **Python, Django, C... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+
+ </div>
