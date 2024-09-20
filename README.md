@@ -58,9 +58,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saijonov/saijonov/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/saijonov/saijonov/output/github-contribution-grid-snake.svg" />
   <br/><br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=saijonov&theme=github" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=saijonov&theme=github"/>
   <br/><br/><br/>
 </div>
 <hr/>
