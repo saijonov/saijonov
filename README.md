@@ -17,9 +17,9 @@
 <h2 align="center">🚀 Current Focus 🚀</h2>
 
 <div align="center">
-    🔭 I’m currently working on developing a <strong>CRM</strong> system that integrates lead generation and management features using Python, Django, and PostgreSQL.
+    🔭 Currently working on developing a <strong>CRM</strong> system that integrates lead generation and management features using Python, Django, and PostgreSQL.
     <br/><br/>
-    🌱 I’m exploring advanced <strong>Pentesting</strong> techniques, network security, and real-world vulnerability assessments.
+    🌱 Exploring advanced <strong>Pentesting</strong> techniques, network security, and real-world vulnerability assessments.
 </div>
 
 <hr/>
