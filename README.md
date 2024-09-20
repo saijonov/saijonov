@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on a **CRM**
 
-💬 Ask me about **Python, Django, C... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, Django, C... or anything [here](https://github.com/saijonov/saijonov/issues)**
 
 
  </div>
