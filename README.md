@@ -4,17 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saidgani+Dadajanov!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from Uzbekistan🇺🇿 </h3>
+<h3 align="center">A passionate Full Stack Developer from Uzbekistan 🇺🇿</h3>
+
+<p align="center">
+    I specialize in creating scalable web applications, developing innovative solutions, and working with cutting-edge technologies. 
+    With experience in <strong>Python, Django, C, and SQL</strong>, I strive to build projects that are efficient, maintainable, and enjoyable to use.
+</p>
+
 
 <br/>
 
+<h2 align="center">🚀 Current Focus 🚀</h2>
+
 <div align="center">
- 
- 🔭 I’m currently working on a **CRM**
+    🔭 I’m currently working on developing a **CRM** system that integrates lead generation and management features using Python, Django, and PostgreSQL.
+    <br/><br/>
+    🌱 I’m exploring advanced **Pentesting** techniques, network security, and real-world vulnerability assessments.
+</div>
 
-💬 Ask me about **Python, Django, C... or anything [here](https://github.com/saijonov/saijonov/issues)**
+<hr/>
 
- </div>
 
  
 <div align="center"> 
@@ -50,9 +59,21 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saijonov/saijonov/output/github-contribution-grid-snake.svg" />
-  
+  <br/><br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=saijonov&theme=github" alt="Contribution Graph" />
   <br/><br/><br/>
 </div>
-
 <hr/>
 
+
+
+
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saijonov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saijonov&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+</div>
+<br/>
+<hr/>
