@@ -1,78 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saijonov.saijonov" />
+# Hi, I'm Saidgani
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+start+our+journey!;" />
-</h1>
+I'm a backend engineer at [Lobstr](https://lobstr.io), a web scraping platform based in Paris. I write and maintain scrapers, scale the async job pipeline behind them, and keep clean, structured data flowing to thousands of users. Python, Django, Celery and PostgreSQL are my daily tools, and my side projects lean toward TypeScript and Next.js.
 
-<h3 align="center">Full Stack Developer from Uzbekistan 🇺🇿</h3>
+I live in Uzbekistan, and most of what I build outside work is for people here. Much of it started at hackathons. Right now I'm building [Hackathonlar](https://github.com/saijonov/hackathonlar), a platform where developers in Uzbekistan can find hackathons and read reviews from verified participants.
 
-<p align="center">
-    I specialize in creating scalable web applications, developing innovative solutions, and working with cutting-edge technologies. 
-    With experience in <strong>Python, Django, C, and SQL</strong>, I try to build projects that are efficient, maintainable, and <strong>easy to use</strong>.
-</p>
+### Selected projects
 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Shahrim](https://github.com/saijonov/shahrim) | Citizens photograph street problems in Samarkand, AI writes the report, and city staff can track and resolve every issue on a live map | FastAPI, PostGIS, Telegram Mini App |
+| [Hackathonlar](https://github.com/saijonov/hackathonlar) | Hackathon listings and reviews for Uzbekistan, available in Uzbek, Russian and English | Next.js, Supabase, Tailwind |
+| [RepoOnboard](https://github.com/saijonov/ibm_bob_hackathon) | Turns any public GitHub repo into a personal onboarding plan for the first week. Made for the IBM Bob Hackathon | FastAPI, IBM Bob |
+| [AID.uz](https://github.com/saijonov/ai_hackathon_samarkand) | Patient management for hospitals in Uzbekistan, with AI risk screening for diabetes and heart disease | Django, scikit-learn, OpenAI |
 
-<br/>
+### Outside work
 
-<h2 align="center">🚀 Current Focus 🚀</h2>
+- Spoke at TEDxYouth in Samarkand (2022) about how to get started in IT
+- A regular participant in hackathons and coding contests, including events by IBM, the Central Bank of Uzbekistan and Yandex
+- Studying cybersecurity, with a focus on networks
 
-<div align="center">
-    🔭 Currently working on developing a <strong>CRM</strong> system that integrates lead generation and management features using Python, Django, and PostgreSQL.
-    <br/><br/>
-    🌱 Exploring advanced <strong>Pentesting</strong> techniques, network security, and real-world vulnerability assessments.
-</div>
+### Contact
 
-<hr/>
-
-
- 
-<div align="center"> 
-  <a href="mailto:saidganidadajonovsat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://uz.linkedin.com/in/saidgani-dadajanov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://saijonov.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/sai_jonov/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
-<hr/>
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,c,postgresql" />
-<br>
-</div>
-
-<br/>
-<hr/>
-
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/saijonov/saijonov/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<hr/>
-
-
-
-
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saijonov&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saijonov&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-</div>
-<br/>
-<hr/>
+The fastest way to reach me is [saidganidadajonovsat@gmail.com](mailto:saidganidadajonovsat@gmail.com).
